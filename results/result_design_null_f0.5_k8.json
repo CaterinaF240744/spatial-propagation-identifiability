@@ -1,0 +1,46 @@
+{
+ "tag": "design_null_f0.5_k8",
+ "truth": "null",
+ "f": 0.5,
+ "ntp": 8,
+ "runtime_s": 57,
+ "divergences": 0,
+ "sd_over_prior_logbeta": {
+  "PT": 0.762,
+  "DCT": 0.858,
+  "TAL": 0.894,
+  "vascular": 0.742,
+  "immune": 1.039,
+  "other": 0.841
+ },
+ "sd_over_prior_logrho": {
+  "PT": 0.857,
+  "DCT": 0.809,
+  "TAL": 0.914,
+  "vascular": 0.86,
+  "immune": 0.94,
+  "other": 0.89
+ },
+ "sd_over_prior_logR": {
+  "PT": 0.684,
+  "DCT": 0.685,
+  "TAL": 0.849,
+  "vascular": 0.663,
+  "immune": 0.947,
+  "other": 0.726
+ },
+ "R_diff_median": {
+  "PT": 3.02,
+  "DCT": 2.35,
+  "TAL": 2.75,
+  "vascular": 1.9,
+  "immune": 0.68,
+  "other": 1.41
+ },
+ "R_diff_true": "all equal (3.0)",
+ "logtau_mean": 3.8117004397538614,
+ "logtau_true": 3.2188758248682006,
+ "P(R_PT>R_TAL)": 0.585,
+ "P(R_PT>R_DCT)": 0.7025,
+ "P(R_vascular>R_TAL)": 0.25625
+}

@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+jax
+diffrax
+numpyro
+matplotlib
+# preprocessing only
+scanpy
+scikit-learn
